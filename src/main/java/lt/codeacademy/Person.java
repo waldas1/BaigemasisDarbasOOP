@@ -38,4 +38,12 @@ public class Person {
     public void setPersonalNumber(long personalNumber) {
         this.personalNumber = personalNumber;
     }
+
+    @Override
+    public String toString() {
+        return
+                "name - " + name + "\n" +
+                "surname - " + surname + "\n" +
+                "personalNumber - " + personalNumber;
+    }
 }

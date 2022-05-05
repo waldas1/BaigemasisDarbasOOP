@@ -1,5 +1,9 @@
 [ {
-  "name" : "val",
-  "surname" : "jun",
-  "personalNumber" : 123456789
+  "name" : "Tomas",
+  "surname" : "Scerbo",
+  "personalNumber" : 123456987
+}, {
+  "name" : null,
+  "surname" : null,
+  "personalNumber" : 0
 } ]
